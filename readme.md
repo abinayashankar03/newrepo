@@ -18,10 +18,10 @@
 
 ---
 
-| column 1|| column 2|
-| --------------------
-| f.name  || l.name  |
-| abinaya || shankar |
+| column 1| | column 2|
+| --------| |---------
+| f.name  | | l.name  |
+| abinaya | | shankar |
 
 ---
 
